@@ -1,4 +1,4 @@
-# we_are_the_world
+# We Are The World
 
 A new Flutter project.
 
